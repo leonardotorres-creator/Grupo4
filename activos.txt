@@ -2,14 +2,20 @@
 1002,Laptop Dell Latitude,Hardware,Contabilidad,Maria Morales,Activo
 1003,Laptop Dell Latitude,Hardware,Contabilidad,Andre Sigchos,Activo
 2001,Laptop Dell Latitude,Hardware,Soporte Tecnico,Darlin Hernandez,Activo
-2002,Laptop Dell Altitude,Hardware,Soporte Tecnico,Ian Bautista,Activo
+2002,Laptop Dell Latitude,Hardware,Soporte Tecnico,Ian Bautista,Activo
 3001,Laptop ASUS Vivoboock OLED,Hardware,Produccion,Leonardo Torres,Activo
-3002,Laptop ASUS Voviboock OLED,Hardware,Produccion,Anahi Loyola,Activo
+3002,Laptop ASUS Vovoboock OLED,Hardware,Produccion,Anahi Loyola,Activo
 3003,Laptop ASUS Vivoboock OLED,Hardware,Produccion,Camilo Pozo,Activo
 1004,Impresora epson,Hardware,Contabilidad,Andre Sigchos,Activo
 2004,mouse teclado MSI,Hardware,Soporte Tecnico,Ian Bautista,Activo
-2005,mouse teclado MSI,Hardware,Soperte Tecnico,Darlin Hernandez,Activo
+2005,mouse teclado MSI,Hardware,Soporte Tecnico,Darlin Hernandez,Activo
 4001,Laptop ASUS Tuf gaming A16,Hardware,Marketing,Michelle Merino,Activo
 1010,Windows 11,Software,Contabilidad,Jose Barreno,Activo
 1011,Windows 11,Software,Contabilidad,Maria Morales,Activo
 1012,Windows 11,Software,Contabilidad,Andre Sigchos,Activo
+2010,Windows 11,Software,Soporte Tecnico,Darlin Hernandez,Activo
+2011,Windows 11,Software,Soporte Tecnico,Ian Bautista,Activo
+3010,Windows 11,Software,Produccion,Leonardo Torres,Activo
+3011,Windows 11,Software,Produccion,Camilo Pozo,Activo
+3012,Windows 11,Software,Produccion,Anahi Loyola,Activo
+4010,Windows 11,Software,Marketing,Michelle Merino,Activo
