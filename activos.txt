@@ -1,0 +1,7 @@
+1001,Laptop Dell Latitude,Hardware,Contabilidad,Jose Barreno,Activo
+1002,Laptop Dell Latitude,Hardware,Contabilidad,Maria Morales,Activo
+1003,Laptop Dell Latitude,Hardware,Contabilidad,Andre Sigchos,Activo
+2001,Laptop Dell Latitude,Hardware,Soporte Tecnico,Darlin Hernandez,Activo
+2002,Laptop Dell Altitude,Hardware,Soporte Tecnico,Ian Bautista,Activo
+3001,Laptop ASUS Vivoboock OLED,Hardware,Produccion,Leonardo Torres,Activo
+3002,Laptop ASUS Voviboock OLED,Hardware,Produccion,Anahi Loyola,Activo
