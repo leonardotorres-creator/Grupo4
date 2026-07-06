@@ -19,3 +19,22 @@
 3011,Windows 11,Software,Produccion,Camilo Pozo,Activo
 3012,Windows 11,Software,Produccion,Anahi Loyola,Activo
 4010,Windows 11,Software,Marketing,Michelle Merino,Activo
+1020,ADOBEReaderPDF,Software,Contabilidad,Jose Barreno,Activo
+1021,ADOBEReaderPDF,Software,Contabilidad,Maria Morales,Activo
+1022,ADOBEReaderPDF,Software,Contabilidad,Andre Sigchos,Activo
+2020,ADOBEReaderPDF,Software,Soporte Tecnico,Darlin Hernandez,Activo
+2021,ADOBEReaderPDF,Software,Soporte Tecnico,Ian Bautista,Activo
+3020,ADOBEReaderPDF,Software,Produccion,Leonardo Torres,Activo
+3021,ADOBEReaderPDF,Software,Produccion,Camilo Pozo,Activo
+3022,ADOBEReaderPDF,Software,Produccion,Anahi Loyola,Activo
+4020,ADOBEReaderPDF,Software,Marketing,Michelle Merino,Activo
+1030,Office 2026,Software,Contabilidad,Jose Barreno,Activo
+1031,Office 2026,Software,Contabilidad,Maria Morales,Activo
+1032,Office 2026,Software,Contabilidad,Andre Sigchos,Activo
+2030,Office 2026,Software,Soporte Tecnico,Darlin Hernandez,Activo
+2031,Office 2026,Software,Soporte Tecnico,Ian Bautista,Activo
+3030,Office 2026,Software,Produccion,Leonardo Torres,Activo
+3031,Office 2026,Software,Produccion,Camilo Pozo,Activo
+3032,Office 2026,Software,Produccion,Anahi Loyola,Activo
+4030,Office 2026,Software,Marketing,Michelle Merino,Activo
+4030,Office 2026,Software,Marketing,Michelle Merino,Activo
