@@ -5,3 +5,11 @@
 2002,Laptop Dell Altitude,Hardware,Soporte Tecnico,Ian Bautista,Activo
 3001,Laptop ASUS Vivoboock OLED,Hardware,Produccion,Leonardo Torres,Activo
 3002,Laptop ASUS Voviboock OLED,Hardware,Produccion,Anahi Loyola,Activo
+3003,Laptop ASUS Vivoboock OLED,Hardware,Produccion,Camilo Pozo,Activo
+1004,Impresora epson,Hardware,Contabilidad,Andre Sigchos,Activo
+2004,mouse teclado MSI,Hardware,Soporte Tecnico,Ian Bautista,Activo
+2005,mouse teclado MSI,Hardware,Soperte Tecnico,Darlin Hernandez,Activo
+4001,Laptop ASUS Tuf gaming A16,Hardware,Marketing,Michelle Merino,Activo
+1010,Windows 11,Software,Contabilidad,Jose Barreno,Activo
+1011,Windows 11,Software,Contabilidad,Maria Morales,Activo
+1012,Windows 11,Software,Contabilidad,Andre Sigchos,Activo
