@@ -13,8 +13,9 @@ void mostrarInventarioCompleto(Nodo *cab) {
         return;
     }
 
+    //Repeticion hasta que llegue el puntero aux a siguiente = a NULL
     while(aux != NULL) {
-        printf(BLUE"[%d]"RESET" %-25s | Tipo: %-12s | Dep: %-15s | Resp: %-15s | Estado: %s\n",
+        printf(BLUE"[%d]"" %-25s | Tipo: %-12s | Dep: %-15s | Resp: %-15s | Estado: %s\n"RESET,
             aux->dato.codigo, 
             aux->dato.nombre, 
             aux->dato.tipo, 
@@ -35,13 +36,15 @@ void mostrarActivosPorDepartamento(Nodo *cab) {
 
     printf(CYAN"\n===== ACTIVOS ASIGNADOS A: %s =====\n"RESET, dep);
     Nodo *aux = cab;
+
+    //Compara cadenas de caracteres para encontrar conicidencias
     while(aux != NULL) {
         if(strcmp(aux->dato.departamento, dep) == 0) {
-            printf(GRAY"[%d]"RESET" %s (Responsable: %s) - Estado: %s\n",
+            printf(GRAY"[%d]"RESET BLUE" %s (Responsable: %s) - Estado: %s\n"RESET,
                 aux->dato.codigo, aux->dato.nombre, aux->dato.responsable, aux->dato.estado);
-            encontrado = 1;
+            encontrado = 1;//al menos una concidencia
         }
-        aux = aux->sig;
+        aux = aux->sig;//Sigue al siguiente nodo, repite proceso
     }
 
     if(!encontrado) {

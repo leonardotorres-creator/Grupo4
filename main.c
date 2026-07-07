@@ -18,8 +18,8 @@ int main() {
     cargarDesdeArchivo(&lista);
 
     do {
-        printf(YELLOW"\n===== TECHSOLUTIONS S.A. - GESTION DE ACTIVOS TI =====\n");
-        printf("1. Registrar activo\n");
+        printf(BG_WHITE"\n===== TECHSOLUTIONS S.A. - GESTION DE ACTIVOS TI ====="RESET"\n");
+        printf(YELLOW"1. Registrar activo\n");
         printf("2. Buscar activo por codigo\n");
         printf("3. Actualizar responsable\n");
         printf("4. Dar de baja activo\n");
